@@ -46,3 +46,4 @@ NOTES:
 - You must be a member of the group to download from it
 - First run requires phone verification; subsequent runs do not
 - The script works even if the group has "restrict saving content" enabled
+- with that you can download contents that were activated seen this week or month 
